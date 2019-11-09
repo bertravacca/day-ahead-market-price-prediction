@@ -1,5 +1,4 @@
 # day-ahead-market-price-prediction
-Objective
 We want to predict the day ahead price for each hour. When participating to the DAM market, LSEs (Load Serving Entities) have to make their bids (consisting of a quantity in MW and a marginal price in $ per MW). The total demand is something known by the LSE when making this bid (CAISO provides it). Predicting the price is of prime importance for the LSE for two reasons:
 
 make sure price bid is lower than the clearing price
